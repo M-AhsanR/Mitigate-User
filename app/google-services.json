@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "939152673426",
+    "firebase_url": "https://umtapps-b657a.firebaseio.com",
+    "project_id": "umtapps-b657a",
+    "storage_bucket": "umtapps-b657a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939152673426:android:8d43ff43a5cc7744",
+        "android_client_info": {
+          "package_name": "com.umt.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939152673426-sn8a34l1m8f4it45c5usvgu43rlnr06i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGVe51lanfhRl7UeOLlMmF0IoQ4o5AD2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939152673426-sn8a34l1m8f4it45c5usvgu43rlnr06i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939152673426:android:8d53efe700331696",
+        "android_client_info": {
+          "package_name": "mitigate.transportation.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939152673426-sn8a34l1m8f4it45c5usvgu43rlnr06i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGVe51lanfhRl7UeOLlMmF0IoQ4o5AD2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939152673426-sn8a34l1m8f4it45c5usvgu43rlnr06i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
